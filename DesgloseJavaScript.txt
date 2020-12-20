@@ -1,0 +1,19 @@
+Problema: Tomar un archivo con anagramas, y retornar un valor que indique la cantidad de los mismos. Debe de imprimir los sets de anagramas por igual.
+
+
+Requerimientos:
+
+El programa deberá de tomar un archivo con anagramas.
+El programa deberá de retornar el valor de anagramas que contenga el archivo.
+El programa deberá de retornar los sets de anagramas.
+
+Criteria de Aceptación:
+
+Crear una función que acepte como parámetro un archivo txt.
+Crear una función que retorne la cantidad de anagramas.
+Crear un test que compruebe la función de retornar la cantidad de anagramas.
+
+Escenario de prueba:
+
+anagramsCount(file) => 20683
+anagramsCount(file) => 3
